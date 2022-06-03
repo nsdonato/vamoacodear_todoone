@@ -1,0 +1,13 @@
+section {
+    width: 100%;
+}
+
+.wrapper--list {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+.wrapper--list li {
+    list-style: none;
+}
